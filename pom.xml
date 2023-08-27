@@ -13,9 +13,7 @@
     </parent>
 
     <groupId>com.orangomango</groupId>
-
     <artifactId>railtheway</artifactId>
-
     <version>1.0</version>
 
     <repositories>
