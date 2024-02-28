@@ -38,6 +38,7 @@
         <module>RailTheWay-application</module>
         <module>RailTheWay-application-gluon</module>
         <module>RailTheWay-application-gwt</module>
+        <module>RailTheWay-application-j2cl</module>
         <module>RailTheWay-application-openjfx</module>
     </modules>
 
